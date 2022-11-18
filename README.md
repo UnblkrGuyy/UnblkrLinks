@@ -7,6 +7,12 @@ nebula: https://scienceclassroom.herokuapp.com
 
 nebula: https://nebula2.anirudhiscool.repl.co
 
+nebula: https://youaresupercool.lol
+
+nebula: https://mathmatics-free.art
+
+nebula: https://visualmath.art
+
 unblkr1: https://googleclassroommath.glitch.me
 
 Unblkr2: https://smartwifi-redone.glitch.me
