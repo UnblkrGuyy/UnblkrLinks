@@ -29,15 +29,15 @@ Discord: https://womginx.binaryperson.repl.co/main/https://discord.com/login
 
 Freedom Project: https://home.0xdc.icu/
 
-Proxy: Proxysite.com
+Proxy: https://Proxysite.com
 
-proxy: hide.me
+proxy: https://hide.me
 
-proxy: hidemyass.com
+proxy: https://hidemyass.com
 
-proxy: you.com
+proxy: https://you.com
 
-proxy: proxysite.com
+proxy: https://proxysite.com
 
 
 
